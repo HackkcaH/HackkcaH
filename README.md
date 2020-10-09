@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+I'm Walteir Junio
+21y beginner programmer
+
+
+Courses and Certificates
+PHP         -   Digital Innovation
+JavaScript  -   Alura
+
+
+Currently learning:
+Python
+Java
+
+How to reach me:
+Telegram: https://t.me/hackkkcah
+Email: walteirjr2014@hotmail.com
