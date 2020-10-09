@@ -22,7 +22,7 @@ I'm Walteir Junio
 21y beginner programmer
 
 
-Courses and Certificates
+Courses and Certificates:
 PHP         -   Digital Innovation
 JavaScript  -   Alura
 
