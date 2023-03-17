@@ -1,16 +1,13 @@
-### Hi there 👋
+24y beginner programmer
 
-<!--
-**HackkcaH/HackkcaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Courses and Certificates: 
+PHP - Digital Innovation 
+JavaScript - Alura
 
-Here are some ideas to get you started:
+Currently learning: Python Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My portfolio: https://*/
+
+How to reach me: 
+Telegram: https://t.me/* 
+Email: *
